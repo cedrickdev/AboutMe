@@ -26,7 +26,6 @@ Looking ahead, I am excited about the endless possibilities that technology hold
 <p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,nuxtjs,php,figma,git,nodejs,postgres,prisma,postman,tailwind,vscode,vercel,pinia,c,cpp,ai,mysql,md,ps,vue,vuetify,sentry,docker,devto,pnpm,xd,notion"/>
 </p>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm,ai,nuxt)
 
 ## Connect with Me 🫣
 
